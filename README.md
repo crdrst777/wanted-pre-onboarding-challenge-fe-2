@@ -1,3 +1,5 @@
+# wanted-pre-onboarding-challenge-fe-2 (TypeScript)
+
 ## 챌린지 과제 가이드
 
 > 요구 사항을 구현하지 않고 설계만합니다.
