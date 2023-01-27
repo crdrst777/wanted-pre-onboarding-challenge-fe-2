@@ -81,7 +81,7 @@ const deleteAllTodo = () => {};
 const deleteTag = () => {};
 
 /**
- *특정 할 일의 모든 태그를 제거할 수 있다.
+ * 특정 할 일의 모든 태그를 제거할 수 있다.
  *
  * @function deleteAllTags
  * @param {string} id
